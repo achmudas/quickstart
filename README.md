@@ -1,4 +1,4 @@
-# Just Fork from official Angular repository to play around with Angular 2
+# Just a fork from an official Angular repository to play around with Angular 2.
 
 
 # Angular QuickStart Source
