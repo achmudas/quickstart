@@ -1,3 +1,6 @@
+# Just Fork from official Angular repository to play around with Angular 2
+
+
 # Angular QuickStart Source
 [![Build Status][travis-badge]][travis-badge-url]
 
